@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Input your ID and Password."
+AuthUserFile C:\Users\よこはま\Desktop\index\htpasswd
+require valid-user
